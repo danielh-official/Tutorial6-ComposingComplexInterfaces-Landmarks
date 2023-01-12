@@ -1,2 +1,2 @@
-# Tutorial 5: Animating Views and Transitions - Landmarks
+# Tutorial 6: Composing Complex Interfaces - Landmarks
 Built following the official Swift UI tutorial.
